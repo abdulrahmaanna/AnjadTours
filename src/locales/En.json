@@ -1,0 +1,691 @@
+{
+  "navigation": {
+    "home": "Home",
+    "tours": "Tours",
+    "multi_day_trip": "Multi-day trip",
+    "why_ksa": "Why KSA?",
+    "Riyadh Tours": "Riyadh Tours",
+    "Riyadh Tour": "Riyadh Tour",
+    "Jeddah Tour": "Jeddah Tour",
+    "Edge of the World Excursion": "Edge of the World Excursion",
+    "Riyadh Food": "Riyadh Food",
+    "Riyadh by Metro": "Riyadh by Metro",
+    "One-Day Jeddah Tour": "One-Day Jeddah Tour",
+    "One-Day AlUla Tour": "One-Day AlUla Tour"
+  },
+  "content": {
+    "title": "Unveiling Saudi Arabia with Anjad",
+    "intro": "At Anjad, our passion for Saudi Arabia drives us to create immersive travel experiences that highlight its rich history, diverse culture, and breathtaking landscapes.",
+    "description": "From ancient wonders to hidden gems, we craft seamless, unforgettable journeys designed for true explorers.",
+    "call_to_action": "Discover the Kingdom like never before."
+  },
+  "services": {
+    "title": "Our Services",
+    "description": "We provide a diverse range of services catering to domestic travelers and adventurers. From tailor-made experiences to all-inclusive packages, we offer the necessary support to deliver a highly competitive final product. Explore further to discover the extensive array of services we offer:",
+    "list": [
+      "Itinerary Planning",
+      "Hotels",
+      "Luxury Chauffeur Services",
+      "Airport Meet & Greet",
+      "Private Airport Transfers"
+    ],
+    "about": "Based in Riyadh, Anjad specializes in crafting seamless, detail-oriented travel experiences across Saudi Arabia. With a team of expert guides and a deep passion for storytelling, we bring history, culture, and landscapes to life. From vibrant cities to hidden gems, we ensure every journey is immersive, authentic, and unforgettable."
+  },
+  "social": {
+    "whatsapp": "Whatsapp",
+    "twitter": "Twitter",
+    "instagram": "Instagram",
+    "email": "Email"
+  },
+  "footer": "All rights reserved. Developed by",
+  "Khaled Ghonim": "Khaled Ghonim ",
+  "multiTrip": {
+    "home": "Discover Saudi Arabia with Anjad",
+    "title": "A 9-Day Immersive Journey Through History, Culture, and Adventure",
+    "cta": "Book Your Journey!",
+    "subtitle": "Experience the Magic of Saudi Arabia",
+    "description": "Embark on an unforgettable 9-day adventure across Saudi Arabia with Anjad, where history, culture, and breathtaking landscapes come to life. From the bustling heart of Riyadh to the ancient wonders of AlUla, the serene beauty of Wadi Disah, and the vibrant coastal charm of Jeddah, this journey offers a perfect blend of heritage and exploration.",
+    "description2": "From thrilling desert escapades to cultural deep dives, Anjad ensures a seamless and enriching experience. Whether you're a history enthusiast, nature lover, or adventure seeker, this journey promises memories that will last a lifetime.",
+    "features": {
+      "title": "9 Days of Wonder",
+      "items": [
+        {
+          "title": "Carefully curated itinerary",
+          "description": "Covering the best of Saudi Arabia"
+        },
+        {
+          "title": "Expert Local Guides",
+          "description": "Knowledge and insights from experienced local guides"
+        },
+        {
+          "title": "Authentic Experiences",
+          "description": "Immerse yourself in local culture and traditions"
+        }
+      ]
+    },
+    "highlights": {
+      "title": "Tour Highlights",
+      "items": [
+        {
+          "place": "Ad Diriyah",
+          "description": "UNESCO World Heritage site and first Saudi state"
+        },
+        {
+          "place": "Wadi Disah",
+          "description": "Marvel at the dramatic desert canyons"
+        },
+        {
+          "place": "Hegra",
+          "description": "Ancient Nabataean archaeological wonder"
+        },
+        {
+          "place": "AlUla",
+          "description": "Journey through time in this historic oasis"
+        },
+        {
+          "place": "Historic Jeddah - Al Balad",
+          "description": "Explore the old city of Jeddah"
+        }
+      ]
+    },
+    "itinerary": {
+      "title": "Your 9-Day Journey",
+      "days": [
+        {
+          "day": 1,
+          "title": "Ad Diriyah Explorer",
+          "description": "UNESCO site visit and traditional lunch"
+        },
+        {
+          "day": 2,
+          "title": "Desert Adventure",
+          "description": "Wadi Disah canyon exploration"
+        },
+        {
+          "day": 3,
+          "title": "Hegra Discovery",
+          "description": "Ancient Nabataean ruins tour"
+        },
+        {
+          "day": 4,
+          "title": "AlUla Immersion",
+          "description": "Historic oasis and rock art sites"
+        },
+        {
+          "day": 5,
+          "title": "Medina Heritage",
+          "description": "Islamic historical sites visit"
+        },
+        {
+          "day": 6,
+          "title": "Red Sea Journey",
+          "description": "Coastal exploration and relaxation"
+        },
+        {
+          "day": 7,
+          "title": "Jeddah Cultural Tour",
+          "description": "Al-Balad historic district"
+        }
+      ]
+    },
+    "testimonials": {
+      "title": "What Our Travelers Say",
+      "quotes": [
+        {
+          "text": "An incredible journey through Saudi Arabia's rich history and culture. The guides were knowledgeable and the experiences were unforgettable.",
+          "author": "Sarah M. - UK"
+        },
+        {
+          "text": "From ancient ruins to modern cities, this tour perfectly balanced history, adventure, and comfort. Highly recommended!",
+          "author": "John D. - USA"
+        }
+      ]
+    },
+    "contact": {
+      "title": "Ready to Start Your Journey?",
+      "options": [
+        "WhatsApp Support",
+        "Email Us",
+        "Call Us",
+        "Book Your Tour Now"
+      ]
+    }
+  },
+  "whyKSA": {
+    "title": "Why Visit Saudi Arabia?",
+    "subtitle": "A Land of Culture, History, and Innovation",
+    "cta": "Plan Your Trip with Anjad",
+    "highlights": [
+      "AlUla - Ancient Desert City",
+      "The Red Sea - Crystal Clear Waters",
+      "Asir Mountains - Natural Beauty",
+      "Modern Architecture - Vision 2030"
+    ],
+    "intro": {
+      "title": "Why KSA?",
+      "description": "Saudi Arabia is a land of contrasts, where ancient history meets modern innovation. As the largest country in the Middle East, the Kingdom offers a rich blend of cultural heritage, stunning landscapes, and economic opportunities. Here's why Saudi Arabia should be your next destination:"
+    },
+    "sections": {
+      "richHistory": {
+        "title": "A Land of Rich History",
+        "description": "Saudi Arabia is home to some of the world's most significant historical sites:",
+        "items": [
+          "AlUla – An open-air museum with Nabatean tombs older than Petra",
+          "Diriyah – The birthplace of the Saudi state and a UNESCO-listed heritage site",
+          "Jeddah's Al-Balad – A vibrant historical district with centuries-old architecture"
+        ]
+      },
+      "culturalExperiences": {
+        "title": "Unique Cultural Experiences",
+        "description": "Immerse yourself in authentic Arabian culture:",
+        "items": [
+          "Traditional Markets (Souqs): Discover spices, handmade crafts, and Bedouin treasures",
+          "Hospitality: Experience the legendary warm welcome and generosity of Saudi people",
+          "Festivals & Events: From Riyadh Season to Janadriyah Festival, celebrate Saudi culture"
+        ]
+      },
+      "naturalWonders": {
+        "title": "Breathtaking Natural Wonders",
+        "description": "The Kingdom boasts diverse landscapes, from deserts to coastlines:",
+        "items": [
+          "The Red Sea – World-class diving and untouched islands",
+          "The Empty Quarter – The largest sand desert in the world, perfect for adventure seekers",
+          "Asir Mountains – Cool weather and lush green terraces in the south"
+        ]
+      },
+      "businessHub": {
+        "title": "A Thriving Economy & Business Hub",
+        "description": "Saudi Arabia is the heart of the Middle East's economy:",
+        "items": [
+          "Vision 2030: A transformative initiative making KSA a global tourism and business powerhouse",
+          "NEOM & The Line: Futuristic smart cities redefining urban living",
+          "Growing Investment Opportunities: A pro-business environment attracting global investors"
+        ]
+      },
+      "pilgrimage": {
+        "title": "Pilgrimage & Spiritual Significance",
+        "description": "Saudi Arabia is the birthplace of Islam and home to the two holiest cities:",
+        "items": [
+          "Makkah: The site of the Hajj pilgrimage, one of Islam's five pillars",
+          "Madinah: The final resting place of Prophet Muhammad (PBUH)"
+        ]
+      },
+      "modernInfrastructure": {
+        "title": "Easy Access & Modern Infrastructure",
+        "description": "Saudi Arabia is more connected than ever:",
+        "items": [
+          "E-Visas & Visa on Arrival – Traveling to KSA is now simpler for many nationalities",
+          "New Mega Projects: High-speed rail, new airports, and luxury resorts are transforming travel"
+        ]
+      }
+    },
+    "summary": {
+      "title": "Why Choose Saudi Arabia?",
+      "description": "Because it's an experience like no other. Whether you're looking for adventure, cultural immersion, or business opportunities, Saudi Arabia is a land of endless possibilities."
+    },
+    "contact": {
+      "visit": "Riyadh, Saudi Arabia",
+      "options": [
+        {
+          "title": "Visit Us",
+          "description": "Riyadh, Saudi Arabia"
+        },
+        {
+          "title": "Book Now",
+          "description": "Plan your perfect trip"
+        },
+        {
+          "title": "Travel Info",
+          "description": "Visa & flight details"
+        },
+        {
+          "title": "Contact",
+          "description": "Get in touch with us"
+        }
+      ],
+      "footer": "Let Anjad be your gateway to discovering the Kingdom like never before."
+    },
+    "final_cta": "Start Planning Your Journey"
+  },
+  "Riyadh": {
+    "tour": {
+      "headline": "Experience Riyadh Like Never Before!",
+      "subHeadline": "Join our Full-Day Riyadh City Tour and explore the heart of Saudi Arabia.",
+      "bookNow": "Book Your Tour Now",
+      "discover": "Discover Riyadh's Beauty",
+      "highlights": {
+        "masmak": {
+          "title": "Al Masmak Fortress",
+          "description": "Iconic fortress that played a pivotal role in Saudi unification"
+        },
+        "faisaliyah": {
+          "title": "Faisaliyah Tower",
+          "description": "Modern architectural marvel with panoramic city views"
+        },
+        "souqs": {
+          "title": "Local Souqs",
+          "description": "Traditional markets full of culture and authentic goods"
+        },
+        "cuisine": {
+          "title": "Saudi Cuisine",
+          "description": "Delicious authentic Saudi lunch experience"
+        },
+        "diriyah": {
+          "title": "Historical Diriyah",
+          "description": "UNESCO World Heritage site and birthplace of the Saudi state"
+        }
+      },
+      "fullTour": {
+        "title": "Full-Day Riyadh City Tour – Discover the Essence of the Capital",
+        "duration": "Duration: 8 hours"
+      },
+      "itinerary": {
+        "diriyah": "Explore the UNESCO-listed birthplace of the Saudi state, featuring stunning architecture and rich history.",
+        "masmak": "Visit the legendary fort that played a key role in Saudi unification, now housing a fascinating museum.",
+        "faisaliyah": "Enjoy breathtaking views of Riyadh from the observation deck of this iconic skyscraper.",
+        "souqs": "Immerse yourself in the culture by visiting traditional markets full of authentic goods and local flavors."
+      },
+      "included": {
+        "title": "What's Included?",
+        "items": [
+          "Licensed tour guide",
+          "Comfortable transportation",
+          "All entrance fees",
+          "Authentic Saudi lunch"
+        ]
+      },
+      "testimonials": {
+        "title": "What Our Guests Say",
+        "reviews": [
+          {
+            "name": "Sarah M.",
+            "review": "An unforgettable experience! The guide was knowledgeable, and the tour was well-organized."
+          },
+          {
+            "name": "John D.",
+            "review": "Excellent tour that covered all the major attractions. The lunch was amazing!"
+          },
+          {
+            "name": "Ahmed K.",
+            "review": "Great way to explore Riyadh. The guide shared fascinating historical insights."
+          }
+        ]
+      },
+      "packages": {
+        "title": "Tour Packages",
+        "fullDay": {
+          "title": "Full-Day City Tour - For groups (1-3 people)",
+          "price": "SAR 1700",
+          "features": [
+            "All attractions included",
+            "Professional guide",
+            "Luxury transportation",
+            "Traditional lunch"
+          ]
+        }
+      },
+      "reserve": "Reserve Your Spot",
+      "contact": {
+        "title": "Contact Us",
+        "fields": {
+          "name": "Name",
+          "email": "Email",
+          "message": "Message",
+          "send": "Send Message"
+        }
+      },
+      "faq": {
+        "title": "Frequently Asked Questions",
+        "pickup": {
+          "question": "Pickup Locations",
+          "answer": "We offer pickup from all major hotels in Riyadh. Your exact pickup time will be confirmed 24 hours before the tour."
+        },
+        "whatToBring": {
+          "question": "What to Bring",
+          "answer": "Comfortable walking shoes, sunscreen, and modest clothing. Don't forget your camera!"
+        },
+        "cancellation": {
+          "question": "Cancellation Policy",
+          "answer": "Free cancellation up to 24 hours before the tour. Less than 24 hours notice will result in a 50% charge."
+        }
+      }
+    }
+  },
+  "worldExcursion": {
+    "tour": {
+      "headline": "Experience Riyadh Like Never Before!",
+      "subHeadline": "Join our Edge of the World Excursion Tour and explore the heart of Saudi Arabia.",
+      "discover": "Discover Riyadh's Beauty",
+      "highlights": {
+        "edgeOfWorld": {
+          "title": "Edge of the World Excursion",
+          "description": "Your full guide to this thrilling attraction"
+        },
+        "jebelFihrayn": {
+          "title": "Jebel Fihrayn",
+          "description": "Edge of the World Tour from Riyadh Private 4x4 Car Pick up"
+        },
+        "guidedHike": {
+          "title": "Guided Hike",
+          "description": "Traverse the rugged terrain with an experienced guide."
+        },
+        "saudiCoffee": {
+          "title": "Saudi Coffee & Refreshments",
+          "description": "Enjoy a picnic-style break with traditional Saudi coffee and light refreshments."
+        }
+      },
+      "fullTour": {
+        "title": "Edge of the World Excursion",
+        "duration": "Duration: 6-7 hours"
+      },
+      "itinerary": {
+        "jebelFihrayn": "Journey to this breathtaking geological wonder, offering stunning cliff views over the expansive desert.",
+        "guidedHike": "Traverse the rugged terrain with an experienced guide.",
+        "saudiCoffee": "Enjoy a picnic-style break with traditional Saudi coffee and light refreshments."
+      },
+      "included": {
+        "title": "What's Included?",
+        "items": [
+          "4x4 transportation with hotel pickup and drop-off",
+          "Licensed tour guide",
+          "Picnic-style Saudi coffee and refreshments"
+        ]
+      },
+      "testimonials": {
+        "title": "What Our Guests Say",
+        "reviews": [
+          {
+            "name": "Sarah M.",
+            "review": "An unforgettable experience! The guide was knowledgeable, and the tour was well-organized."
+          },
+          {
+            "name": "John D.",
+            "review": "Excellent tour that covered all the major attractions. The lunch was amazing!"
+          },
+          {
+            "name": "Ahmed K.",
+            "review": "Great way to explore Riyadh. The guide shared fascinating historical insights."
+          }
+        ]
+      },
+      "packages": {
+        "title": "Tour Packages",
+        "edgeOfWorldTour": {
+          "title": "Edge of the World Excursion Tour - For groups (1-3 people)",
+          "price": "SAR 1700"
+        }
+      }
+    }
+  },
+  "riyadhFood": {
+    "tour": {
+      "headline": "Experience Riyadh Like Never Before!",
+      "subHeadline": "Join our Riyadh Food Tour and explore the heart of Saudi Arabia.",
+      "discover": "Discover Riyadh's Beauty",
+      "highlights": {
+        "culturalInsights": {
+          "title": "Cultural Insights",
+          "description": "Learn about the history and cultural significance of various dishes and ingredients."
+        },
+        "culinaryExploration": {
+          "title": "Culinary Exploration",
+          "description": "Embark on a gastronomic journey through Riyadh's diverse food scene."
+        },
+        "localEateries": {
+          "title": "Local Eateries",
+          "description": "Visit traditional restaurants and street vendors, sampling authentic Saudi dishes."
+        }
+      },
+      "fullTour": {
+        "title": "Riyadh Food Tour",
+        "duration": "Approximately 3-4 hours"
+      },
+      "itinerary": {
+        "culinaryExploration": "Embark on a gastronomic journey through Riyadh's diverse food scene.",
+        "localEateries": "Visit traditional restaurants and street vendors, sampling authentic Saudi dishes.",
+        "culturalInsights": "Learn about the history and cultural significance of various dishes and ingredients."
+      },
+      "included": {
+        "title": "What's Included?",
+        "items": [
+          "Licensed food guide",
+          "Transportation with hotel pickup and drop-off",
+          "All food tastings (sufficient for a full meal)",
+          "Bottled water and refreshments"
+        ]
+      },
+      "testimonials": {
+        "title": "What Our Guests Say",
+        "reviews": [
+          {
+            "name": "Sarah M.",
+            "review": "An unforgettable experience! The guide was knowledgeable, and the tour was well-organized."
+          },
+          {
+            "name": "John D.",
+            "review": "Excellent tour that covered all the major attractions. The lunch was amazing!"
+          },
+          {
+            "name": "Ahmed K.",
+            "review": "Great way to explore Riyadh. The guide shared fascinating historical insights."
+          }
+        ]
+      },
+      "packages": {
+        "title": "Tour Packages",
+        "riyadhFoodTour": {
+          "title": "Riyadh Food Tour - Approximately 3-4 hours"
+        }
+      }
+    }
+  },
+  "riyadhMetro": {
+    "tour": {
+      "headline": "Experience Riyadh Like Never Before!",
+      "subHeadline": "Join our Riyadh by Metro Tour and explore the heart of Saudi Arabia.",
+      "discover": "Discover Riyadh's Beauty",
+      "highlights": {
+        "nationalMuseumSouqs": {
+          "title": "National Museum & Souqs",
+          "description": "Explore Saudi Arabia’s history and vibrant marketplaces."
+        },
+        "faisaliyahTower": {
+          "title": "Faisaliyah Tower",
+          "description": "See one of Riyadh's architectural icons from a unique perspective."
+        },
+        "kafdQasrHokm": {
+          "title": "KAFD & Qasr Al Hokm Stations",
+          "description": "Discover Riyadh's evolving skyline and heritage."
+        }
+      },
+      "fullTour": {
+        "title": "Riyadh by Metro",
+        "duration": "Approximately 3 hours"
+      },
+      "itinerary": {
+        "kafdQasrHokm": "Discover Riyadh's evolving skyline and heritage.",
+        "nationalMuseumSouqs": "Explore Saudi Arabia’s history and vibrant marketplaces.",
+        "faisaliyahTower": "See one of Riyadh's architectural icons from a unique perspective."
+      },
+      "included": {
+        "title": "What's Included?",
+        "items": [
+          "Licensed tour guide",
+          "Metro tickets",
+          "Walking tours of selected areas",
+          "Light refreshments"
+        ]
+      },
+      "testimonials": {
+        "title": "What Our Guests Say",
+        "reviews": [
+          {
+            "name": "Sarah M.",
+            "review": "An unforgettable experience! The guide was knowledgeable, and the tour was well-organized."
+          },
+          {
+            "name": "John D.",
+            "review": "Excellent tour that covered all the major attractions. The lunch was amazing!"
+          },
+          {
+            "name": "Ahmed K.",
+            "review": "Great way to explore Riyadh. The guide shared fascinating historical insights."
+          }
+        ]
+      },
+      "packages": {
+        "title": "Tour Packages",
+        "riyadhMetroTour": {
+          "title": "Riyadh by Metro - Approximately 3 hours",
+          "price": "SAR 1500"
+        }
+      }
+    }
+  },
+  "Jeddah": {
+    "tour": {
+      "headline": "Experience the Best of Jeddah in One Day!",
+      "subHeadline": "A journey through history, culture, and coastal beauty",
+      "bookNow": "Book Your Jeddah Tour Today!",
+      "discover": "Tour Highlights",
+      "highlights": {
+        "alBalad": {
+          "title": "Al-Balad (Old Jeddah)",
+          "description": "Explore the UNESCO-listed historic district with traditional Hijazi architecture."
+        },
+        "fishMarket": {
+          "title": "Fish Market",
+          "description": "Experience the vibrant seafood trade and see the freshest Red Sea catches."
+        },
+        "corniche": {
+          "title": "Jeddah Waterfront (Corniche)",
+          "description": "Enjoy a scenic stroll along the coast. The Corniche offers breathtaking views of the Red Sea and the city's iconic landmarks."
+        },
+        "kingFahdFountain": {
+          "title": "King Fahd Fountain",
+          "description": "View the world's tallest seawater fountain. It symbolizes the city's legacy of water and is a symbol of Saudi Arabia's prosperity and progress."
+        },
+        "floatingMosque": {
+          "title": "Floating Mosque",
+          "description": "Visit this serene site by the sea. The mosque is a stunning example of Islamic architecture and is a symbol of Saudi Arabia's culture and spirituality."
+        },
+        "hayyJameel": {
+          "title": "Hayy Jameel",
+          "description": "Explore contemporary art and cultural exhibitions. Hayy Jameel is a vibrant hub for art and culture, showcasing the latest works from talented artists from around the world."
+        }
+      },
+      "yourDay": {
+        "title": "Your Day in Jeddah",
+        "morning": {
+          "title": "Morning - Historic Al-Balad Experience",
+          "activities": [
+            "Traditional Saudi breakfast",
+            "Guided walk through ancient streets",
+            "Visit to historical houses",
+            "Shopping at Souq Al Alawi"
+          ]
+        },
+        "afternoon": {
+          "title": "Afternoon - Coastal Attractions",
+          "activities": [
+            "Visit to the Floating Mosque",
+            "Jeddah Corniche walk",
+            "King Fahd Fountain viewing",
+            "Modern art installations tour"
+          ]
+        },
+        "evening": {
+          "title": "Evening - Cultural Evening",
+          "activities": [
+            "Traditional Hijazi dinner",
+            "Sunset by the sea",
+            "Cultural performance",
+            "Night city views"
+          ]
+        }
+      },
+      "whyChooseUs": {
+        "title": "Why Choose Us",
+        "items": {
+          "expertGuides": "Knowledgeable guides who bring Jeddah's history to life",
+          "comfortableTransport": "Modern, air-conditioned vehicles for a pleasant journey",
+          "authenticExperiences": "Immerse yourself in genuine local culture and traditions",
+          "easyBooking": "Simple, secure booking process with instant confirmation"
+        }
+      },
+      "bookNowFooter": "Book Your Jeddah Tour Today!"
+    }
+  }, 
+  "AlUla" : {
+    "tour": {
+      "headline": "Step Back in Time with the One-Day AlUla Tour",
+      "subHeadline": "Discover the awe-inspiring history and natural wonders of Saudi Arabia's hidden gem",
+      "bookNow": "Book Your AlUla Adventure Now",
+      "welcome": "Welcome to AlUla",
+      "welcomeDescription": "Step into Saudi Arabia's open-air museum, where ancient civilizations have left their mark on dramatic desert landscapes. AlUla, home to the Kingdom's first UNESCO World Heritage Site, invites you on a journey through time.",
+      "discover": "Tour Highlights",
+      "highlights": {
+        "hegra": {
+          "title": "Hegra (Mada'in Salih)",
+          "description": "Visit Saudi Arabia's first UNESCO World Heritage Site, featuring over 100 monumental Nabataean tombs carved into magnificent rock formations. These ancient wonders tell stories of a civilization that once controlled vital trade routes."
+        },
+        "dadan": {
+          "title": "Dadan & Jabal Ikmah",
+          "description": "Discover ancient rock inscriptions and relics of lost civilizations at this remarkable archaeological site. Explore the capital of the Dadan and Lihyan kingdoms, witnessing thousands of years of human history carved in stone."
+        },
+        "oldTown": {
+          "title": "AlUla Old Town",
+          "description": "Walk through historical streets with beautifully restored mudbrick houses, experiencing 12 centuries of history. This preserved ancient city offers a glimpse into traditional Arabian architecture and daily life through the ages."
+        },
+        "elephantRock": {
+          "title": "Elephant Rock",
+          "description": "Admire this majestic natural rock formation at sunset, where nature has carved a perfect elephant-like shape from the desert stone. Experience breathtaking views and perfect photo opportunities in the golden hour light."
+        },
+        "maraya": {
+          "title": "Maraya Concert Hall",
+          "description": "Marvel at the world's largest mirrored building, a stunning architectural masterpiece that reflects the beauty of AlUla's desert landscape. This modern wonder hosts world-class performances in a uniquely dramatic setting."
+        }
+      },
+      "yourDay": {
+        "title": "Your Day in AlUla",
+        "morning": {
+          "title": "Morning - Explore AlUla's Ancient Heritage",
+          "activities": [
+            "Visit the UNESCO-listed Hegra (Mada’in Salih)",
+            "Discover ancient Nabataean tombs",
+            "Explore the Dadan Kingdom ruins",
+            "See remarkable rock inscriptions"
+          ]
+        },
+        "afternoon": {
+          "title": "Afternoon - Cultural & Architectural Marvels",
+          "activities": [
+            "Walk through AlUla Old Town’s mudbrick streets",
+            "Enjoy lunch at a traditional Arabian restaurant",
+            "Visit Maraya Concert Hall, the world's largest mirrored building",
+            "Explore nature trails and rock formations"
+          ]
+        },
+        "evening": {
+          "title": "Evening - Sunset & Stargazing",
+          "activities": [
+            "Experience the breathtaking view at Elephant Rock",
+            "Relax at a desert camp with Arabian hospitality",
+            "Enjoy traditional Saudi cuisine under the stars",
+            "Stargazing in the clear AlUla desert sky"
+          ]
+        }
+      },
+      "whyChooseUs": {
+        "title": "Why Choose Our Tour",
+        "items": {
+          "expertGuides": "Our guides are passionate storytellers with deep knowledge of AlUla's history and culture.",
+          "support": "Dedicated customer service team available throughout your journey."
+        }
+      },
+      "bookNowFooter": "Book Your AlUla Adventure Now"
+    }
+  }
+  
+  
+}
