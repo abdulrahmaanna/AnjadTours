@@ -1,0 +1,14 @@
+{
+  "rewrites": [
+    { "source": "/", "destination": "/index.html" },
+    { "source": "/riyadh-tours", "destination": "/index.html" },
+    { "source": "/edge-of-world-excursion", "destination": "/index.html" },
+    { "source": "/riyadh-red-sand-tours", "destination": "/index.html" },
+    { "source": "/riyadh-food-tour", "destination": "/index.html" },
+    { "source": "/riyadh-by-metro", "destination": "/index.html" },
+    { "source": "/multi-day-trip", "destination": "/index.html" },
+    { "source": "/why-saudi-arabia", "destination": "/index.html" },
+    { "source": "/jeddah-tours", "destination": "/index.html" },
+    { "source": "/al-ula-tours", "destination": "/index.html" }
+  ]
+}
